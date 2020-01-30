@@ -1,9 +1,7 @@
 # code your #position_taken? method here
 def position_taken?(board, index)
  if (board[index] == " ")
-   position_taken? = false
  elsif (board[index] == "")
-   position_taken? = false
 
 end
 end
