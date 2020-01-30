@@ -2,6 +2,7 @@
 def position_taken?(board, index)
  if (board[index] == " ") ||
    (board[index] == "")
-   position_taken? = false
+
+    position_taken? = false
 end
 end
